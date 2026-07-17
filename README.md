@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
