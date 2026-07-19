@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0118-pascals-triangle) |
 ## Binary Search
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0118-pascals-triangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
