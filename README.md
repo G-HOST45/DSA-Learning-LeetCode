@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0048-rotate-image) |
+| [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
