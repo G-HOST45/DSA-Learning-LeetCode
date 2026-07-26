@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
