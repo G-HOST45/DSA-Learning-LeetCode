@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0182-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
