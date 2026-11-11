@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0022-generate-parentheses) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 ## String Matching
 |  |
 | ------- |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Counting
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
