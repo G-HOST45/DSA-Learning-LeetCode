@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
