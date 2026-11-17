@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
