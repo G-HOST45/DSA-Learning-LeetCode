@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1881-maximum-value-after-insertion](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1881-maximum-value-after-insertion](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
