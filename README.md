@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/0258-add-digits) |
+| [3360-stone-removal-game](https://github.com/G-HOST45/DSA-Learning-LeetCode/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
